@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+pyrogram==2.0.106
+tgcrypto==1.2.5
+yt-dlp==2023.11.16
+requests==2.31.0
+python-dotenv==1.0.0
+youtube-search-python==1.6.5
+pillow==10.1.0
+sqlalchemy==2.0.23
+apscheduler==3.10.4
+aiohttp==3.9.1
+py-tgcalls==0.9.5
